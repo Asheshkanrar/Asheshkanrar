@@ -5,7 +5,7 @@ Alongside core programming, I’m passionate about Front-End Web Development, wh
 I’m continuously learning, improving my problem-solving skills, and exploring new technologies to build impactful software solutions.
 
 
-## 🌐 Socials:
+## 🌏 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashesh-kanrar-a71201323) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.ashesh_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asheshkanrar5@gmail.com) 
 
 # 💻 Tech Stack:
