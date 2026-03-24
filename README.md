@@ -1,8 +1,15 @@
-# 💫 About Me:
-I am Ashesh Kanrar, a second-year B.Tech student in Information Technology at Netaji Subhash Engineering College, Kolkata (NSEC ’28).
-I have a strong command of C and C++, with solid hands-on experience in Data Structures and Algorithms, focusing on writing efficient and optimized code.
-Alongside core programming, I’m passionate about Front-End Web Development, where I enjoy building interactive, responsive, and visually appealing user interfaces.
-I’m continuously learning, improving my problem-solving skills, and exploring new technologies to build impactful software solutions.
+## 👨‍💻 About Me
+
+Hello! I'm a 2nd year B.Tech student in Information Technology with a strong passion for software development and problem solving. I am currently focused on becoming a skilled Full Stack Developer and continuously improving my coding abilities.
+
+I have already completed my journey in Frontend Development, where I gained hands-on experience in building responsive and interactive user interfaces using technologies like HTML, CSS, and JavaScript. Now, I am expanding my knowledge towards backend development and learning how to build complete, scalable web applications.
+
+Alongside development, I actively practice Data Structures and Algorithms (DSA) to strengthen my problem-solving skills and logical thinking. I regularly solve coding problems to improve my efficiency and prepare for technical interviews.
+
+I enjoy learning new technologies, building projects, and challenging myself with real-world problems. My goal is to become a proficient developer who can create impactful and efficient solutions.
+
+🚀 Always curious to learn, grow, and build!
+
 
 
 ## 🌏 Socials:
