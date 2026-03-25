@@ -8,7 +8,8 @@ Alongside development, I actively practice Data Structures and Algorithms (DSA) 
 
 I enjoy learning new technologies, building projects, and challenging myself with real-world problems. My goal is to become a proficient developer who can create impactful and efficient solutions.
 
-🚀 Always curious to learn, grow, and build!
+🚀 Always curious to learn, grow, and build! and i am glad to be a part of this journey
+
 
 
 
