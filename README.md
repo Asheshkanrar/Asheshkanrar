@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-Hello! I'm a 2nd year B.Tech student in Information Technology with a strong passion for software development and problem solving. I am currently focused on becoming a skilled Full Stack Developer and continuously improving my coding abilities.
+Hello! I'm a 3rd year B.Tech student in Information Technology with a strong passion for software development and problem solving. I am currently focused on becoming a skilled Full Stack Developer and continuously improving my coding abilities.
 
 I have already completed my journey in Frontend Development, where I gained hands-on experience in building responsive and interactive user interfaces using technologies like HTML, CSS, and JavaScript. Now, I am expanding my knowledge towards backend development and learning how to build complete, scalable web applications.
 
