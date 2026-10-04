@@ -1,14 +1,18 @@
 ## 👨‍💻 About Me
 
-Hello! I'm a 3rd year B.Tech student in Information Technology with a strong passion for software development and problem solving. I am currently focused on becoming a skilled Full Stack Developer and continuously improving my coding abilities.
+# Hey! I'm Ashesh 👋
 
-I have already completed my journey in Frontend Development, where I gained hands-on experience in building responsive and interactive user interfaces using technologies like HTML, CSS, and JavaScript. Now, I am expanding my knowledge towards backend development and learning how to build complete, scalable web applications.
+I'm a 3rd-year B.Tech IT student who enjoys coding, building things, and figuring out how stuff works.
 
-Alongside development, I actively practice Data Structures and Algorithms (DSA) to strengthen my problem-solving skills and logical thinking. I regularly solve coding problems to improve my efficiency and prepare for technical interviews.
+Currently, I'm learning **Full Stack Development** and working on improving my **DSA and problem-solving skills**. I've already covered the frontend side with **HTML, CSS, and JavaScript**, and now I'm exploring backend development and databases to understand how complete applications are built.
 
-I enjoy learning new technologies, building projects, and challenging myself with real-world problems. My goal is to become a proficient developer who can create impactful and efficient solutions.
+I also spend a good amount of time solving problems on **LeetCode** and practicing DSA with C++ and Java. Along with web development, I'm getting into **Data Analytics and AI/ML** because I find the whole field pretty interesting.
 
-🚀 Always curious to learn, grow, and build!
+I like working on projects, trying out new technologies, and learning by actually building things rather than just watching tutorials.
+
+Still learning, still building, and definitely still debugging. :)
+
+🚀 **Currently learning → Full Stack • DSA • AI/ML**
 
 
 
